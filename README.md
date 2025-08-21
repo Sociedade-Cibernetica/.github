@@ -1,5 +1,5 @@
 # Sociedade Cibernética
 
----
-
-[**Discord**](https://discord.gg/brmasnSNBG)
+<div align="center">
+  <b><a href="https://discord.gg/brmasnSNBG">Discord</a></b>
+</div>
