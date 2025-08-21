@@ -1,5 +1,3 @@
-# Sociedade Cibernética
-
 <div align="center">
-  <b><a href="https://discord.gg/brmasnSNBG">Discord</a></b>
+  <h1>Organization Profile Files</h1>
 </div>
